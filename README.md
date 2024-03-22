@@ -4,6 +4,7 @@ For the logic and explanation it's all located in ./src./merge.ts file already
 
 
 **Project Structure**
+```
 |
 |
 |__ dist
@@ -18,7 +19,7 @@ For the logic and explanation it's all located in ./src./merge.ts file already
 |_ test
       |
       |_merge.test.ts <= here is the unit test
-
+```
 1. Need to compile the .ts file first by
 
   ```
