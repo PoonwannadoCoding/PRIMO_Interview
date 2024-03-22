@@ -1,4 +1,7 @@
-**Merge Function Tutorial**
+**Merge Function**
+
+For the logic and explanation it's all located in ./src./merge.ts file already
+
 1. Need to compile the .ts file first by
 
   ```
