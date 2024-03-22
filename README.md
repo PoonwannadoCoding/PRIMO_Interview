@@ -10,7 +10,7 @@ For the logic and explanation it's all located in ./src./merge.ts file already
 |__ dist
 |     |
 |     |__merge.js <= file for run the code
-      |__merge.js.map
+|     |__merge.js.map
 |
 |___ src 
 |      |
